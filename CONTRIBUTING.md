@@ -37,3 +37,13 @@ Formal tests will be introduced as a later stretch-goal.
 
 # Documentation Standards
 All commits should have detailed messages attached stating exactly what was changed and why.
+
+# Bug Reporting
+Any bugs can be reported by opening an issue in the Issues tab of the repository with the header [Bug].
+I will attempt to address any opened issues as soon as possible, but at the end of the day this is a passion project.
+
+# New Features
+Any proposed new features can be suggested by either opening a new Issue with the header [Feature Request].
+
+# Community Guidelines
+Anything written in this repository should be polite and professional. Violence and hate will be met with an immediate ban from the repository.
