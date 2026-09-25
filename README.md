@@ -12,7 +12,7 @@ python --version
 
 # Installation Instructions
 Simply download the repository and run "3d-chess.py" in any command-line interface with 
-```python
+```
 python 3d-chess.py
 ```
 
